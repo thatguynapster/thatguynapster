@@ -31,12 +31,12 @@ Here are some of the projects I’ve worked on, demonstrating my skills as both 
    - **Tech Stack**: React, Next.js, Node.js, MongoDB, Paystack
    - **Key Features**: Inventory management, order processing, and analytics.
 
-### 2. **Swoove Delivery Agency Panel(https://panel.swoovedelivery.com)** 
+### 2. **[Swoove Delivery Agency Panel](https://panel.swoovedelivery.com)** 
    - **Description**: Web app built for agencies to manage drivers, vehicles, and delivery trips. Focused on real-time tracking and ease of use.
    - **Tech Stack**: Next.js, TailwindCSS, Node.js, TypeScript, Git
    - **Key Features**: Logistics management, Delivery tracking
 
-### 3. **Ghana Music Live(https://ghanamusiclive.com)** 
+### 3. **[Ghana Music Live](https://ghanamusiclive.com)** 
    - **Description**: Created responsive web interfaces with accessible design and reusable components. Integrated APIs for music content and user management. 
    - **Tech Stack**: Next.js, TailwindCSS, TypeScript, Git
 
