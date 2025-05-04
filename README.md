@@ -47,7 +47,7 @@ Here are some of the projects I’ve worked on, demonstrating my skills as both 
 Feel free to connect with me via:
 
 - 📧 Email: andrewosei94@gmail.com
-- 🌐 Website: [www.andrewoseiwusu.vercel.app](https://andrewoseiwusu.vercel.app/)
+- 🌐 Website: [Andrew Osei-Wusu | @thatguynapster](https://andrewoseiwusu.vercel.app/)
 - 🔗 LinkedIn: [Andrew Osei-Wusu](https://www.linkedin.com/in/andrewoseiwusu/)
 
 ---
