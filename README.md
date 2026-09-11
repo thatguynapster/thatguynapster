@@ -26,7 +26,7 @@ Welcome to my GitHub profile! With over 8 years of experience in frontend develo
 
 Here are some of the projects I’ve worked on, demonstrating my skills as both a frontend and full-stack developer:
 
-### 1. **[PrimeCart](#)** 
+### 1. **[PrimeCart](https://primecart.app)** 
    - **Description**: A full-stack SaaS e-commerce platform, where I’m building out the admin panel, storefront APIs, and payment integration.
    - **Tech Stack**: React, Next.js, Node.js, MongoDB, Paystack
    - **Key Features**: Inventory management, order processing, and analytics.
